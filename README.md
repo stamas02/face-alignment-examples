@@ -1,4 +1,4 @@
-#Preprocessing Scripts
+# Preprocessing Scripts
 
 ## Face alignment
 
@@ -31,7 +31,7 @@ Three different alignment method was used to estimate the affine transformations
 - cv2.estimateAffinePartial2D(l)
 
 
-#####Examples:
+##### Examples:
 ![](example_images/img1.jpg)
 ![](example_images/img1.jpg.gif)
 ![](example_images/img2.jpg)
