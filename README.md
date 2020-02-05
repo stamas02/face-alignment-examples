@@ -26,6 +26,7 @@ canonical_positions = np.array([
 ```
 
 Three different alignment method was used to estimate the affine transformations:
+
 - skimage.transform.SimilarityTransform().estimate()
 - cv2.estimateAffine2D()
 - cv2.estimateAffinePartial2D(l)
